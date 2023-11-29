@@ -5,9 +5,8 @@ This notebook uses Publish or Perish command line tools to calculate metrics.
 The bulk of the notebook is simply wrapping those tools, calling them in a reasonable way, and collating the results.
 
 > [!IMPORTANT]  
-
-- It is best to get Google Scholar profile page URLS from the PC. In that case, only `retrieve_gs` and `metrics_gs` are needed, and there is no ambiguity (i.e. multiple profile pages with the same name)
-- If `search_gs` is used, input names should match Google Scholar, e.g. if Google Scholar says "Christopher Conway", then "Chris Conway" is less likely to match
+> - It is best to get Google Scholar profile page URLS from the PC. In that case, only `retrieve_gs` and `metrics_gs` are needed, and there is no ambiguity (i.e. multiple profile pages with the same name)
+> - If `search_gs` is used, input names should match Google Scholar, e.g. if Google Scholar says "Christopher Conway", then "Chris Conway" is less likely to match
 
 ## Process
 
